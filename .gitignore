@@ -1,0 +1,20 @@
+# Byte-compiled Python files
+*.pyc
+__pycache__/
+
+# Environment variables
+.env.*
+
+#virtual environments
+env*/
+venv*/
+
+# Logs
+*.log
+
+#Django
+/media/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
